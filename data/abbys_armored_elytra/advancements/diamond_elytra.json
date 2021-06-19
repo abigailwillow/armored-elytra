@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "craft_diamond_elytra": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "abbys_armored_elytra:diamond_elytra"
+            }
+        }
+    },
+    "rewards": {
+        "function": "abbys_armored_elytra:give_diamond_elytra"
+    }
+}

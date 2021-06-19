@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:elytra"
+        },
+        "title": "Abby's Armored Elytra",
+        "description": "Adds crafting recipes for crafting armored elytra",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent":"abbys_datapacks:root",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

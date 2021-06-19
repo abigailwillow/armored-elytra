@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "craft_leather_elytra": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "abbys_armored_elytra:golden_elytra"
+            }
+        }
+    },
+    "rewards": {
+        "function": "abbys_armored_elytra:give_golden_elytra"
+    }
+}
