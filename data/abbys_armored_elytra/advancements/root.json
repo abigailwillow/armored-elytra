@@ -4,7 +4,7 @@
             "item": "minecraft:elytra"
         },
         "title": "Abby's Armored Elytra",
-        "description": "Adds crafting recipes for crafting armored elytra",
+        "description": "Adds recipes for crafting armored elytra",
         "show_toast": false,
         "announce_to_chat": false
     },
