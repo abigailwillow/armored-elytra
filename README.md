@@ -2,6 +2,6 @@
 
 ## Description
 
-A simple implementation of the classic idea of having armored elytra. Install the [resource pack](https://github.com/abbydiode/abbys-armored-elytra/blob/main/Abby's_Armored_Elytra.zip) to install the accompanying textures.
+A simple implementation of the classic idea of having armored elytra. Install the [resource pack](https://github.com/abbydiode/abbys-armored-elytra/raw/main/Abby's%20Armored%20Elytra.zip) to install the accompanying textures.
 
 ![Image Preview](https://i.imgur.com/LRor5Xv.png)
