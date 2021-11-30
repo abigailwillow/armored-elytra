@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple implementation of the classic idea of having armored elytra. You can download the [resource pack](Abby's%20Armored%20Elytra.zip?raw=1) to install the accompanying textures for this data pack.
+A simple implementation of the classic idea of having armored elytra. You can download the [resource pack](Abby's%20Armored%20Elytra.zip?raw=1) to install the accompanying textures for this data pack. To craft an armored elytra just combine any chestplate with an elytra in a crafting table or even your inventory.
 
 ![Image Preview](https://i.imgur.com/LRor5Xv.png)
 
