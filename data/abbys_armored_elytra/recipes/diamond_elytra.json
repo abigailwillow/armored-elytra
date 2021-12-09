@@ -1,13 +1,11 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
+    "type": "minecraft:smithing",
+    "base": {
             "item": "minecraft:diamond_chestplate"
         },
-        {
+        "addition": {
             "item": "minecraft:elytra"
-        }
-    ],
+        },
     "result": {
         "item": "minecraft:knowledge_book"
     }

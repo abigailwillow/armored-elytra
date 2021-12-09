@@ -12,5 +12,5 @@ A simple implementation of the classic idea of having armored elytra. You can do
 2. Enable the data pack using `/datapack enable "file/abbys-armored-elytra.zip"`.
 3. **Optional:** Install the accompanying [resource pack] by downloading the zip file, then drag and drop the file into your resourcepacks folder, typically found in `%appdata%/.minecraft/resourcepacks`.
 
-[data pack]:../../releases/download/1.1/abbys-armored-elytra.zip
-[resource pack]: ../../releases/download/1.1/abbys-armored-elytra-resource-pack.zip
+[data pack]:../../releases/download/1.2/abbys-armored-elytra.zip
+[resource pack]: ../../releases/download/1.2/abbys-armored-elytra-resource-pack.zip
