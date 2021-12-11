@@ -2,9 +2,10 @@
 
 ## Description
 
-A simple implementation of the classic idea of having armored elytra. You can download the [resource pack] to install the accompanying textures for this data pack. To craft an armored elytra just combine any chestplate with an elytra in a crafting table or even your inventory.
+A simple implementation of the classic idea of having armored elytra. You can download the [resource pack] to install the accompanying textures for this data pack. To craft an armored elytra just combine any chestplate with an elytra in a smithing table.
 
 ![Image Preview](https://i.imgur.com/LRor5Xv.png)
+![Crafting Recipe](https://i.imgur.com/mFSOY84.png)
 
 ## Installation
 
