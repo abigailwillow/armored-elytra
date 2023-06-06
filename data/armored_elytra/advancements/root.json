@@ -3,7 +3,7 @@
         "icon": {
             "item": "minecraft:elytra"
         },
-        "title": "Abby's Armored Elytra",
+        "title": "Armored Elytra",
         "description": "Adds recipes for crafting armored elytra",
         "show_toast": false,
         "announce_to_chat": false

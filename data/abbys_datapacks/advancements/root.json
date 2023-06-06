@@ -2,15 +2,15 @@
 	"display": {
 		"icon": {
 			"item": "minecraft:player_head",
-			"nbt": "{SkullOwner:awberry}"
+			"nbt": "{SkullOwner:Awberry}"
 		},
 		"title": "Abby's Datapacks",
 		"frame": "goal",
-		"description": "https://github.com/abbydiode",
+		"description": "https://modrinth.com/user/Abby",
 		"show_toast": false,
 		"announce_to_chat": false
 	},
-    "parent": "installed_datapacks:root",
+	"parent": "installed_datapacks:root",
 	"criteria": {
 		"tick": {
 			"trigger": "minecraft:tick"

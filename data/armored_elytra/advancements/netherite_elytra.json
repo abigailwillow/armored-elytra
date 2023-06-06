@@ -1,13 +1,13 @@
 {
     "criteria": {
-        "craft_leather_elytra": {
+        "craft_diamond_elytra": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "abbys_armored_elytra:iron_elytra"
+                "recipe": "armored_elytra:netherite_elytra"
             }
         }
     },
     "rewards": {
-        "function": "abbys_armored_elytra:give_iron_elytra"
+        "function": "armored_elytra:give_netherite_elytra"
     }
 }

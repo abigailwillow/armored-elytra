@@ -3,11 +3,11 @@
         "craft_leather_elytra": {
             "trigger": "minecraft:recipe_unlocked",
             "conditions": {
-                "recipe": "abbys_armored_elytra:golden_elytra"
+                "recipe": "armored_elytra:chainmail_elytra"
             }
         }
     },
     "rewards": {
-        "function": "abbys_armored_elytra:give_golden_elytra"
+        "function": "armored_elytra:give_chainmail_elytra"
     }
 }
