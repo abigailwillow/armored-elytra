@@ -2,7 +2,7 @@
 	"display": {
 		"icon": {
 			"item": "minecraft:player_head",
-			"nbt": "{SkullOwner:Awberry}"
+			"nbt": "{SkullOwner: Awberry}"
 		},
 		"title": "Abby's Datapacks",
 		"frame": "goal",

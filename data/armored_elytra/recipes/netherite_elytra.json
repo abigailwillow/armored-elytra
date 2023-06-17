@@ -1,11 +1,14 @@
 {
-    "type": "minecraft:smithing",
+    "type": "minecraft:smithing_transform",
     "base": {
-            "item": "minecraft:netherite_chestplate"
-        },
-        "addition": {
-            "item": "minecraft:elytra"
-        },
+        "item": "minecraft:netherite_chestplate"
+    },
+    "addition": {
+        "item": "minecraft:phantom_membrane"
+    },
+    "template": {
+        "item": "minecraft:elytra"
+    },
     "result": {
         "item": "minecraft:knowledge_book"
     }

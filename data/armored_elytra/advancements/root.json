@@ -1,7 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:elytra"
+            "item": "minecraft:elytra",
+            "nbt": "{CustomModelData: 6}"
         },
         "title": "Armored Elytra",
         "description": "Adds recipes for crafting armored elytra",
