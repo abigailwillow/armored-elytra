@@ -8,8 +8,8 @@ To craft an armored elytra just combine any chestplate with an elytra and a phan
 
 You can download the [resource pack] to install the accompanying textures for this data pack.
 
-![Crafting Recipe](https://github.com/abbydiode/armored-elytra/assets/16174954/ea12d4c8-69f9-4717-914a-e78139bf30ee)
-![Overview](https://github.com/abbydiode/armored-elytra/assets/16174954/1c719cc4-5141-4248-9a2b-983ea792b2a3)
+![Overview](https://github.com/abbydiode/armored-elytra/assets/16174954/006a4e32-cff3-4818-822a-ed1895423ae0)  
+![Crafting Recipe](https://github.com/abbydiode/armored-elytra/assets/16174954/69bed6b8-c010-43a3-8878-04cadb27e6c8)
 
 ## Installation
 
