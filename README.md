@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple implementation of the classic idea of having armored elytra.
+A simple implementation of the classic idea of being able to combine a chestplate and elytra.
 
 To craft an armored elytra just combine any chestplate with an elytra and a phantom membrane in a smithing table to bind them together.
 
