@@ -9,7 +9,7 @@
         "show_toast": false,
         "announce_to_chat": false
     },
-    "parent":"abbys_datapacks:root",
+    "parent":"installed_datapacks:awberry",
     "criteria": {
         "tick": {
             "trigger": "minecraft:tick"
