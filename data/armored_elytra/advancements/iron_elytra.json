@@ -1,9 +1,9 @@
 {
     "criteria": {
         "craft_leather_elytra": {
-            "trigger": "minecraft:recipe_unlocked",
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
-                "recipe": "armored_elytra:iron_elytra"
+                "recipe_id": "armored_elytra:iron_elytra"
             }
         }
     },

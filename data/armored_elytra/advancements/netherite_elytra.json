@@ -1,9 +1,9 @@
 {
     "criteria": {
         "craft_diamond_elytra": {
-            "trigger": "minecraft:recipe_unlocked",
+            "trigger": "minecraft:recipe_crafted",
             "conditions": {
-                "recipe": "armored_elytra:netherite_elytra"
+                "recipe_id": "armored_elytra:netherite_elytra"
             }
         }
     },
