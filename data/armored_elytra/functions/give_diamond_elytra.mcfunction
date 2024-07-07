@@ -1,4 +1,4 @@
-give @s minecraft:elytra{display: {Name: '[{"text":"Diamond Elytra","italic": false}]'}, AttributeModifiers: [{ AttributeName: "generic.armor", Amount: 8, Operation: 0, Name: "generic.armor", Slot:"chest", UUID:[I; -1623373971, 1055374012, 2090507132, 1761916046]},{AttributeName: "generic.armor_toughness", Amount: 2, Operation: 0, Name: "generic.armor_toughness", Slot:"chest", UUID:[I; -1623373971, 1055374012, 2090507132, 1761916046]}], CustomModelData: 5}
+give @s minecraft:elytra[custom_name='{"text":"Diamond Elytra","italic":false}',attribute_modifiers=[{name:diamond_elytra,type:generic.armor,amount:8,operation:add_value,slot:chest,uuid:[I;0,0,0,0]},{name:diamond_elytra_toughness,type:generic.armor_toughness,amount:2,operation:add_value,slot:chest,uuid:[I;0,0,0,0]}],custom_model_data=5]
 
 advancement revoke @s only armored_elytra:diamond_elytra
 clear @s knowledge_book 1

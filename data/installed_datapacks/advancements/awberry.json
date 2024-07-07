@@ -1,12 +1,16 @@
 {
 	"display": {
 		"icon": {
-			"item": "minecraft:player_head",
-			"nbt": "{SkullOwner: Awberry}"
+			"id": "minecraft:player_head",
+			"components": {
+				"profile": {
+					"name": "Awberry"
+				}
+			}
 		},
-		"title": "Abby's Datapacks",
+		"title": "Awberry's Datapacks",
 		"frame": "goal",
-		"description": "https://modrinth.com\n/user/Abby",
+		"description": "https://modrinth.com\n/user/Awberry",
 		"show_toast": false,
 		"announce_to_chat": false
 	},
